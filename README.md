@@ -164,3 +164,5 @@ If you encounter any issues or have questions, please:
 - Multiple quality formats support
 - Error handling and authentication support
 # youtube_api
+
+https://pub.dev/packages/youtube_extract_url
